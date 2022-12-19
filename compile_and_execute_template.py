@@ -2,8 +2,6 @@ import json
 import sys
 import os
 import getopt
-from collections import Counter
-
 import boto3
 import jinja2
 import yaml
